@@ -21,6 +21,8 @@ labels: ""
 
 ## Fertig, wenn
 
+<!-- Ein Punkt prüft genau eine Sache. Wer zwei Dinge verlangt, schreibt zwei Punkte: im Review zählt „teilweise“ wie „nicht erfüllt“. -->
+
 - [ ] <prüfbares Kriterium 1>
 - [ ] <prüfbares Kriterium 2>
 - [ ] Review bestanden (korodur-review)
